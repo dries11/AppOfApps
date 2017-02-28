@@ -1,0 +1,17 @@
+<ion-header class="header">
+  <ion-navbar color="primary">
+    <ion-title>
+      <h1>App of Apps</h1>
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-card class="cards">
+    <ion-card-header class="card-headers">
+      Currency Converter
+    </ion-card-header>
+    <img class="currencyPhoto" src="../../assets/CurrencyConverterIcon/hand_money.png"/>
+    <button ion-button color="dark"[navPush]="currencyConverter" class="btn" round>Go To The Currency Converter</button>
+  </ion-card>
+</ion-content>

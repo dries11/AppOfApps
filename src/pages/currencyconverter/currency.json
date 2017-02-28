@@ -1,0 +1,14 @@
+{
+    "currencies" : [
+    {"name" : "US Dollar","rate" : 1.00},
+    {"name" : "Euro","rate" : 0.94},
+    {"name" : "British Pound","rate" : 0.82},
+    {"name" : "Indian Rupee","rate" : 68.32},
+    {"name" : "Austraian Dollar","rate" : 1.35},
+    {"name" : "Canadian Dollar","rate" : 1.32},
+    {"name" : "Singapore Dollar","rate" : 1.43},
+    {"name" : "Swiss Franc","rate" : 1.01},
+    {"name" : "Malaysian Ringitt","rate" : 4.47},
+    {"name" : "Japanese Yen","rate" : 115.84},
+    {"name" : "Chinese Yuan Renminbi","rate" : 6.92}
+]}

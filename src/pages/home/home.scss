@@ -1,0 +1,22 @@
+.cards{
+    .card-headers{
+        background: color($colors, dark);
+        text-align: center;
+        border: 4px solid black;
+        color: white;
+    }
+    .currencyPhoto{
+        display: block;
+        margin: auto;
+        width: 156px;
+        height: 156px;
+    }
+    .btn{
+        width: 100%;
+        text-align: center;
+    }
+}
+h1{
+    text-shadow: 3px 2px black;
+    text-align: center;
+}
